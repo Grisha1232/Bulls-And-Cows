@@ -1,0 +1,15 @@
+/Users/grigory/Desktop/PeerGrade ВШЭ/BullsAndCows/BullsAndCows/bin/Debug/net5.0/BullsAndCows.deps.json
+/Users/grigory/Desktop/PeerGrade ВШЭ/BullsAndCows/BullsAndCows/bin/Debug/net5.0/BullsAndCows.runtimeconfig.json
+/Users/grigory/Desktop/PeerGrade ВШЭ/BullsAndCows/BullsAndCows/bin/Debug/net5.0/BullsAndCows.runtimeconfig.dev.json
+/Users/grigory/Desktop/PeerGrade ВШЭ/BullsAndCows/BullsAndCows/bin/Debug/net5.0/BullsAndCows.dll
+/Users/grigory/Desktop/PeerGrade ВШЭ/BullsAndCows/BullsAndCows/bin/Debug/net5.0/ref/BullsAndCows.dll
+/Users/grigory/Desktop/PeerGrade ВШЭ/BullsAndCows/BullsAndCows/bin/Debug/net5.0/BullsAndCows.pdb
+/Users/grigory/Desktop/PeerGrade ВШЭ/BullsAndCows/BullsAndCows/obj/Debug/net5.0/BullsAndCows.csproj.AssemblyReference.cache
+/Users/grigory/Desktop/PeerGrade ВШЭ/BullsAndCows/BullsAndCows/obj/Debug/net5.0/BullsAndCows.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grigory/Desktop/PeerGrade ВШЭ/BullsAndCows/BullsAndCows/obj/Debug/net5.0/BullsAndCows.AssemblyInfoInputs.cache
+/Users/grigory/Desktop/PeerGrade ВШЭ/BullsAndCows/BullsAndCows/obj/Debug/net5.0/BullsAndCows.AssemblyInfo.cs
+/Users/grigory/Desktop/PeerGrade ВШЭ/BullsAndCows/BullsAndCows/obj/Debug/net5.0/BullsAndCows.csproj.CoreCompileInputs.cache
+/Users/grigory/Desktop/PeerGrade ВШЭ/BullsAndCows/BullsAndCows/obj/Debug/net5.0/BullsAndCows.dll
+/Users/grigory/Desktop/PeerGrade ВШЭ/BullsAndCows/BullsAndCows/obj/Debug/net5.0/ref/BullsAndCows.dll
+/Users/grigory/Desktop/PeerGrade ВШЭ/BullsAndCows/BullsAndCows/obj/Debug/net5.0/BullsAndCows.pdb
+/Users/grigory/Desktop/PeerGrade ВШЭ/BullsAndCows/BullsAndCows/obj/Debug/net5.0/BullsAndCows.genruntimeconfig.cache
